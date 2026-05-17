@@ -1,0 +1,8 @@
+{
+  "name": "NauticPrime - Maritime Excellence",
+  "description": "A modern, premium landing page for a shipping and maritime company featuring shipbuilding, logistics, and marine engineering services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
